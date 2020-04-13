@@ -1,0 +1,9 @@
+D:\C# Projeler\Film Arşivi\Film Arşivi\obj\Debug\Film Arşivi.csprojAssemblyReference.cache
+D:\C# Projeler\Film Arşivi\Film Arşivi\obj\Debug\Film_Arşivi.Form1.resources
+D:\C# Projeler\Film Arşivi\Film Arşivi\obj\Debug\Film_Arşivi.Properties.Resources.resources
+D:\C# Projeler\Film Arşivi\Film Arşivi\obj\Debug\Film Arşivi.csproj.GenerateResource.cache
+D:\C# Projeler\Film Arşivi\Film Arşivi\bin\Debug\Film Arşivi.exe.config
+D:\C# Projeler\Film Arşivi\Film Arşivi\bin\Debug\Film Arşivi.exe
+D:\C# Projeler\Film Arşivi\Film Arşivi\bin\Debug\Film Arşivi.pdb
+D:\C# Projeler\Film Arşivi\Film Arşivi\obj\Debug\Film Arşivi.exe
+D:\C# Projeler\Film Arşivi\Film Arşivi\obj\Debug\Film Arşivi.pdb
